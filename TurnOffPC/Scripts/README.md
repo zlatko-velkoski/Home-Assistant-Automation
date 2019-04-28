@@ -40,4 +40,10 @@ OK
 
 Type in PC user password
 
+## Enable Powershell unknown script execution
+
+Powershell - Run as Administrator
+
+`Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope LocalMachine`
+
 ## Restart PC
